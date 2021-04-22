@@ -1,5 +1,6 @@
 from django.db import models
 
+
 from apps.product.models import Product
 from apps.vendor.models import Vendor
 
