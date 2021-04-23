@@ -10,7 +10,7 @@ Prerequisites - python3, Latest version of pip
 4) Download the project and paste it in env folder on desktop
 5) Change director to env using “cd env”
 6) Activate the virtual environment by typing in terminal “source bin/activate”
-7) Install All dependencies listed in dependencies folder using command “python3 -m pip
+7) Install All dependencies listed in dependencies file using command “python3 -m pip
 install xyz123”
 8) Now cd to the project folder using “cd foldername”
 9) Make and apply the migrations using “python3 manage.py makemigrations” and “python3
