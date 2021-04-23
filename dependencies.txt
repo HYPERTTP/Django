@@ -1,0 +1,11 @@
+pip install asgiref==3.3.1
+pip install certifi==2020.12.5
+pip install chardet==4.0.0
+pip install pytz==2020.5
+pip install Pillow==8.1.0
+pip install idna==2.10
+pip install requests==2.25.1
+pip install sqlparse==0.4.1
+pip install sqlparse==2.55.1
+pip install urllib3==1.26.2
+pip install django==3.1.5 
