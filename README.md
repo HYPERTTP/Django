@@ -1,0 +1,4 @@
+# Django
+eCOM
+
+# PROJECT IS IN MASTER BRANCH
