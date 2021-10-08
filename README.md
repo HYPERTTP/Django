@@ -1,5 +1,7 @@
-# Django
-eCOM
+# Ecommerce Store using Django
+- CRUD
+- USER LOGIN
+- PAYMENT HANDLING USING STRIPE
 
  How to run the project -
 Prerequisites - python3, Latest version of pip
